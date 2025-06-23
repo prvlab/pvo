@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="93d4b7b6-e0aa-4dbe-bdea-5afdd7a55d70">
+  <producedTypes>
+    <containerType typeId="1eb6f7f2-983f-4729-b055-8daaf1312015" valueTypeId="7dec8bcd-e36b-4680-a2eb-be8fe9cb27cc"/>
+  </producedTypes>
+  <name>МашиночитаемаяДоверенность</name>
+  <synonym>
+    <key>ru</key>
+    <value>Машиночитаемая доверенность</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.МашиночитаемыеДоверенности</types>
+  </type>
+</mdclass:DefinedType>

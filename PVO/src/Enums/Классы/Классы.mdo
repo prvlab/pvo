@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b372dd91-c238-4609-87e4-119a4905c519">
+  <producedTypes>
+    <refType typeId="1c549536-ad66-4529-af06-6a56b2234590" valueTypeId="4f48a5d3-b1fd-4c1a-b1d0-65e0f88f7491"/>
+    <listType typeId="acc298f5-580e-4c86-bc6d-d2d5df5cf700" valueTypeId="0521c8c8-02f0-4150-bfb8-cad73778d21b"/>
+    <managerType typeId="9ce9d5cd-2305-4257-b828-c5c5a2fbac8c" valueTypeId="8dfaa0da-d3b7-4dba-9c8f-49347aaf313a"/>
+  </producedTypes>
+  <name>Классы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Классы</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="ca954636-122f-4422-a289-606b44c03d62">
+    <name>Бизнес</name>
+    <synonym>
+      <key>ru</key>
+      <value>Бизнес</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0d6a1022-e464-4626-8c54-9f9471eb74a7">
+    <name>Эконом</name>
+    <synonym>
+      <key>ru</key>
+      <value>Эконом</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a2bdc71e-3ee5-4029-9249-53ac436e434b">
+    <name>ЭкономКомфорт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Эконом-комфорт</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a46d4418-afc5-45d1-b4f8-f6b4fdc3d9e9">
+    <name>ПервыйКласс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Первый класс</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0c1b3893-3f14-43fd-a469-838f9f1b3c2a">
+    <name>Люкс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вагоны класса «Люкс»</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6c4542c2-6837-451f-b5cb-f4ca9d9a722e">
+    <name>СВ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вагоны СВ или РИЦ (2-местные)</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8b95a993-be1e-4af8-b0de-d10d04c2c10f">
+    <name>Купе</name>
+    <synonym>
+      <key>ru</key>
+      <value>Купейные вагоны</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="84e58930-23c5-4e98-bb82-ed305b614d32">
+    <name>Плацкарт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Плацкартные вагоны</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="b6ee219f-41fa-4071-a499-beeec0edae6a">
+    <name>Сиденье</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вагоны с местами для сидения</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8fad59ff-7f59-496b-bbd3-87f59fca9d01">
+    <name>ОбщиеВагоны</name>
+    <synonym>
+      <key>ru</key>
+      <value>Общие вагоны</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f940b594-a3eb-4e80-b462-a0603c9175d9">
+  <name>МероприятияБухгалтерия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мероприятия (Бухгалтерия)</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <parentSubsystem>Subsystem.Заявки</parentSubsystem>
+</mdclass:Subsystem>

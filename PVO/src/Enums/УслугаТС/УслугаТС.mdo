@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="93857942-66d6-4391-93c1-e8312343ce90">
+  <producedTypes>
+    <refType typeId="87bc7a96-ad83-4f82-8857-80132c723513" valueTypeId="9a1c1535-82d6-4b12-bb1b-a2ac155b56ed"/>
+    <listType typeId="a6441108-0280-4375-bc0f-ed640044f1b0" valueTypeId="833e38b4-f004-49eb-a998-19603e8247ed"/>
+    <managerType typeId="16aaf70b-5403-4c05-97de-c818805f12ba" valueTypeId="48d07143-ca91-4a9f-ae7c-e1177d00addf"/>
+  </producedTypes>
+  <name>УслугаТС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Услуга ТС</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <listPresentation>
+    <key>ru</key>
+    <value>Услуги ТС</value>
+  </listPresentation>
+  <enumValues uuid="c6a22419-f6ae-4142-ac0a-3e150089f986">
+    <name>Трансфер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Трансфер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="58c9303f-f712-4ead-bafd-0430e3abd1b7">
+    <name>Аренда</name>
+    <synonym>
+      <key>ru</key>
+      <value>Аренда</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="805bcc1f-285f-475f-b119-3e110c0df1a9">
+  <producedTypes>
+    <containerType typeId="c07f4c51-8c8d-4e01-86e4-127bad90cf57" valueTypeId="455f9ea4-658c-4419-806f-ce55547b49a1"/>
+  </producedTypes>
+  <name>ПодписанныйОбъектМЧД</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подписанный объект с МЧД</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Файлы</types>
+  </type>
+</mdclass:DefinedType>

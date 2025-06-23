@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="22a09cb3-e27d-4cb2-905d-9044bc9114b9">
+  <producedTypes>
+    <refType typeId="b0fee2f1-168d-4bc4-992a-26e8b0f64203" valueTypeId="d32857c9-eace-45f1-baec-30cba53d65bf"/>
+    <listType typeId="331a2600-6221-44e7-9dc8-79245c42f170" valueTypeId="e3a9fd93-63be-4de2-be63-5519415554b5"/>
+    <managerType typeId="e7aadb13-8efe-4c0a-814c-e65457f13b15" valueTypeId="07018355-6208-4a61-863c-5a171fa7e6d9"/>
+  </producedTypes>
+  <name>ТрансферРазмещение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Трансфер</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="cc1a261c-d4d4-40a5-92c2-3d3584cd3587">
+    <name>РаннийЗаезд</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ранний заезд</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e4d71ed8-967b-43fe-aab7-73398f1caca5">
+    <name>РаннийВыезд</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ранний выезд</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="00de6c80-cc5a-45b1-9c08-deae9e241cad">
+    <name>РаннийЗаездВыезд</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ранний заезд и выезд</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

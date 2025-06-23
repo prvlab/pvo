@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="635069e5-2ea7-4f5a-a9b0-b3c57bbd6048">
+  <producedTypes>
+    <refType typeId="34880e47-3295-4be1-8488-06f298688a73" valueTypeId="9376cd74-5faf-4677-818a-97409414b8f0"/>
+    <listType typeId="742ea97e-f016-4f66-a9cd-381145f42c27" valueTypeId="17f56935-d0e5-4c57-84a7-e3f4325b2df8"/>
+    <managerType typeId="58061af1-3585-4be1-8e85-66681e9dfcda" valueTypeId="56dae67c-2b35-43ee-8334-266649175a0b"/>
+  </producedTypes>
+  <name>ЯзыкиПеревода</name>
+  <synonym>
+    <key>ru</key>
+    <value>Языки перевода</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="3261d710-1d7f-4f95-b5b6-a93332e64cbb">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f96401fd-6ca9-45c6-9375-d7039d774ed4">
+    <name>Английский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Английский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="4345b944-51ff-4c23-b0cd-ba7c0ab9b2f1">
+    <name>Немецкий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Немецкий</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="af57d0f3-9d3d-4547-ab97-bfd347e68621">
+    <name>Китайский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Китайский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="4ee76c9e-4ecf-4b6b-b87a-1e7308e00042">
+    <name>Испанский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Испанский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="90d9659c-8d3d-4012-b40c-2a87e01d2809">
+    <name>Японский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Японский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="5a796b93-acfb-451b-b4a0-3c2af64e34c3">
+    <name>Португальский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Португальский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="c5d4b2cf-5fc2-457b-a702-d725cbc7a354">
+    <name>Казахский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Казахский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="fdb2ff1b-b6c3-4fda-816e-abdb134b8a27">
+    <name>Узбекский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Узбекский</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0744dc2c-1e2d-4195-b8e5-0814440ae32e">
+    <name>Киргизский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Киргизский</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b00fdca1-7866-4bb1-9db1-4e7c8b81eb85">
+  <name>Заявки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.МетаданныеФормы</picture>
+  </picture>
+  <content>Document.ЗаявкаНаОформлениеПоездки</content>
+  <content>Document.РеализацияМероприятия</content>
+  <subsystems>МероприятияБухгалтерия</subsystems>
+</mdclass:Subsystem>
