@@ -2111,6 +2111,7 @@
   <catalogs>Catalog.ДоговорыПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ЗаявкаНаОформлениеПоездкиПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.СправочникТестовый</catalogs>
   <documents>Document.АктОбУничтоженииПерсональныхДанных</documents>
   <documents>Document.Анкета</documents>
   <documents>Document.Встреча</documents>
